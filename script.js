@@ -140,12 +140,5 @@ showDate.innerHTML = ""
     rightDate.style.gridColumn = `${returnWeek[setDate]}`
 
 
-
-
-
-
-
-
 }
 showCalendar();
-    
